@@ -1,6 +1,6 @@
 # Equipment Insight - Gear Grinding Analytics
 
-歯車の歯面研削設備向けの解析MVPです。
+解析MVPです。
 
 ## 主な機能
 
